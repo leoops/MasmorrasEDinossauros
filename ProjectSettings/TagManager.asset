@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Portal
   - Water
+  - DeadArea
   layers:
   - Default
   - TransparentFX
@@ -52,15 +53,15 @@ TagManager:
   - name: Misc
     uniqueID: 1614183541
     locked: 0
-  - name: Ground
-    uniqueID: 3753086857
+  - name: Player
+    uniqueID: 2967973051
     locked: 0
   - name: Enemy
     uniqueID: 1518301477
     locked: 0
-  - name: Player
-    uniqueID: 2967973051
-    locked: 0
   - name: Water
     uniqueID: 298732745
+    locked: 0
+  - name: Ground
+    uniqueID: 3753086857
     locked: 0

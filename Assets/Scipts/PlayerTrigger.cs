@@ -21,7 +21,7 @@ public class PlayerTrigger : MonoBehaviour
             playerScript.DamagePlayer();
         }
 
-        if (collision.CompareTag("Water"))
+        if (collision.CompareTag("DeadArea"))
         {
             playerScript.DamageWater();
         }
