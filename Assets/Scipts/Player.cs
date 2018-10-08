@@ -40,7 +40,7 @@ public class Player : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
 
-        //CoinManager.instance.SetCoinText(coins);
+        TextManager.instance.SetText(coins.ToString());
         cameraScript = GameObject.Find("Main Camera").GetComponent<CameraScript>();
     }
 	
