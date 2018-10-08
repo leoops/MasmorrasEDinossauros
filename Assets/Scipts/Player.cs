@@ -40,7 +40,7 @@ public class Player : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
 
-        CoinManager.instance.SetCoinText(coins);
+        //CoinManager.instance.SetCoinText(coins);
         cameraScript = GameObject.Find("Main Camera").GetComponent<CameraScript>();
     }
 	
@@ -115,8 +115,10 @@ public class Player : MonoBehaviour {
     }
 
     public void PlayerGetCurrency(int value) {
+        // incremento valor
+        // altera mensagem
         this.coins += value;
-        CoinManager.instance.SetCoinText(this.coins);
+        TextManager.instance.SetText(coins.ToString());
     }
 
     public void DamagePlayer() {
