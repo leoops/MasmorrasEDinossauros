@@ -9,6 +9,7 @@ public class Player : MonoBehaviour {
     public float speed;
     public int jumpForce;
     public int health;
+    public int coins;
     public Transform groundCheck;
 
     private bool invunerable = false;
@@ -39,6 +40,7 @@ public class Player : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
 
+        CoinManager.instance.SetCoinText(coins);
         cameraScript = GameObject.Find("Main Camera").GetComponent<CameraScript>();
     }
 	
@@ -112,6 +114,11 @@ public class Player : MonoBehaviour {
 
     }
 
+    public void PlayerGetCurrency(int value) {
+        this.coins += value;
+        CoinManager.instance.SetCoinText(this.coins);
+    }
+
     public void DamagePlayer() {
         if (!invunerable) {
             invunerable = true;
@@ -119,6 +126,7 @@ public class Player : MonoBehaviour {
             StartCoroutine(DamageEffect());
 
             SoundManager.instance.PlaySound (fxHurt);
+            Hud.instance.RefreshLife(health);
 
             if (health < 1) {
                 Debug.Log("Morreu");
@@ -127,6 +135,14 @@ public class Player : MonoBehaviour {
                 gameObject.SetActive(false);
             }
         }
+    }
+
+    public void DamageWater() {
+        health = 0;
+        Hud.instance.RefreshLife(health);
+        KingDeath();
+        Invoke("ReloadLevel", 3f);
+        gameObject.SetActive(false);
     }
 
     void KingDeath() {
@@ -139,6 +155,11 @@ public class Player : MonoBehaviour {
 
     void ReloadLevel() {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex, LoadSceneMode.Single);
+    }
+
+    public void PlayerNextLevel() {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        DontDestroyOnLoad(this);
     }
 
 }
