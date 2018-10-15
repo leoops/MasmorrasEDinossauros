@@ -54,7 +54,7 @@ public class Player : MonoBehaviour {
         }
         SetAnimations();
 
-        if (Input.GetButton("Fire1") && grounded && Time.time > nextAttack) {
+        if (Input.GetButton("Fire1") && Time.time > nextAttack) {
             Attack();
             SoundManager.instance.PlaySound (fxAttack);
         }

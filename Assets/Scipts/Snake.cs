@@ -16,21 +16,18 @@ public class Snake : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-
         sprite = GetComponent<SpriteRenderer>();
         rb2d = GetComponent<Rigidbody2D>();
 
     }
 	
 	// Update is called once per frame
-	void Update () {
-
+    void Update () {
         touchedWall = Physics2D.Linecast(transform.position, wallCheck.position, 1 << LayerMask.NameToLayer("Ground"));
 
         if (touchedWall) {
             Flip();
         }
-
     }
 
     private void FixedUpdate() {
@@ -44,10 +41,6 @@ public class Snake : MonoBehaviour {
     }
 
     private void OnTriggerEnter2D(Collider2D collision) {
-        if (collision.CompareTag("Player")) {
-            Debug.Log("Colidiu player");
-        }
-
         if (collision.CompareTag("Attack")) {
             DamageEnemy();
         }
