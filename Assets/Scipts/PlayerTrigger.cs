@@ -30,13 +30,13 @@ public class PlayerTrigger : MonoBehaviour
         {
             playerScript.PlayerGetCurrency(collision.GetComponent<Coin>().coinValue);
             SoundManager.instance.PlaySound(fxCoin);
-            Destroy(collision.gameObject);
+            Destroy(obj: collision.gameObject);
         }
 
         if (collision.CompareTag("Portal")) {
             playerScript.PlayerGetCurrency(1);
             SoundManager.instance.PlaySound(fxCoin);
-            Destroy(collision.gameObject);
+            Destroy(obj: collision.gameObject);
             playerScript.PlayerNextLevel();
 
         }

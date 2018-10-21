@@ -36,6 +36,10 @@ public class Player : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+        if (PlayerPrefs.GetInt("PlayerCoins") != 0 && coins == 0)
+        {
+            coins = PlayerPrefs.GetInt("PlayerCoins");
+        }
         sprite = GetComponent<SpriteRenderer>();
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -160,8 +164,11 @@ public class Player : MonoBehaviour {
     }
 
     public void PlayerNextLevel() {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        DontDestroyOnLoad(this);
+        int level = SceneManager.GetActiveScene().buildIndex + 1;
+        PlayerPrefs.SetInt("PlayerCoins", coins);
+        //DontDestroyOnLoad(this);
+        SceneManager.LoadScene(level, LoadSceneMode.Single);
+        PlayerPrefs.SetInt("LastLevelIndex", level);
     }
 
 }
