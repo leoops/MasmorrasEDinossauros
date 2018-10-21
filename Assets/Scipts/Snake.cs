@@ -12,6 +12,7 @@ public class Snake : MonoBehaviour {
     private bool facingRight = true;
     private SpriteRenderer sprite;
     private Rigidbody2D rb2d;
+    public ParticleSystem effect;
 
 
     // Use this for initialization
@@ -61,6 +62,9 @@ public class Snake : MonoBehaviour {
         StartCoroutine(DamageEffect());
 
         if (health < 1) {
+            var boom = Instantiate(effect, transform.position, transform.rotation);
+            boom.Play();
+            Destroy(boom.gameObject, 5);
             Destroy(gameObject);
         }
 

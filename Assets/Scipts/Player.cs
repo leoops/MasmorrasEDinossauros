@@ -29,6 +29,7 @@ public class Player : MonoBehaviour {
     public AudioClip fxJump;
     public AudioClip fxAttack;
     public AudioClip fxHurt;
+    public AudioClip fxCoin;
 
     private float nextAttack = 0f;
 
@@ -121,6 +122,7 @@ public class Player : MonoBehaviour {
     public void PlayerGetCurrency(int value) {
         // incremento valor
         // altera mensagem
+        SoundManager.instance.PlaySound(fxCoin);
         this.coins += value;
         TextManager.instance.SetText(coins.ToString());
     }
@@ -152,7 +154,6 @@ public class Player : MonoBehaviour {
     }
 
     void KingDeath() {
-
         GameObject cloneCrown = Instantiate(crown, transform.position, Quaternion.identity);
         Rigidbody2D rb2dCrown = cloneCrown.GetComponent<Rigidbody2D>();
         rb2dCrown.AddForce(Vector3.up * 300);
