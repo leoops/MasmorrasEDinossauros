@@ -105,23 +105,17 @@ public class Player : MonoBehaviour {
     }
 
     IEnumerator DamageEffect() {
-
         cameraScript.ShakeCamera(0.5f, 0.2f);
-
         for (float i = 0f; i < 1f; i += 0.1f) {
             sprite.enabled = false;
             yield return new WaitForSeconds(0.1f);
             sprite.enabled = true;
             yield return new WaitForSeconds(0.1f);
         }
-
         invunerable = false;
-
     }
 
     public void PlayerGetCurrency(int value) {
-        // incremento valor
-        // altera mensagem
         SoundManager.instance.PlaySound(fxCoin);
         this.coins += value;
         TextManager.instance.SetText(coins.ToString());
@@ -137,10 +131,7 @@ public class Player : MonoBehaviour {
             Hud.instance.RefreshLife(health);
 
             if (health < 1) {
-                Debug.Log("Morreu");
                 KingDeath();
-                Invoke("ReloadLevel", 3f);
-                gameObject.SetActive(false);
             }
         }
     }
@@ -149,27 +140,26 @@ public class Player : MonoBehaviour {
         health = 0;
         Hud.instance.RefreshLife(health);
         KingDeath();
-        Invoke("ReloadLevel", 3f);
-        gameObject.SetActive(false);
     }
 
     void KingDeath() {
         GameObject cloneCrown = Instantiate(crown, transform.position, Quaternion.identity);
         Rigidbody2D rb2dCrown = cloneCrown.GetComponent<Rigidbody2D>();
         rb2dCrown.AddForce(Vector3.up * 300);
-
+        Invoke("ReloadLevel", 3f);
+        gameObject.SetActive(false);
     }
 
     void ReloadLevel() {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex, LoadSceneMode.Single);
+        int level = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(level, LoadSceneMode.Single);
     }
 
     public void PlayerNextLevel() {
-        int level = SceneManager.GetActiveScene().buildIndex + 1;
+        int nextLevel = SceneManager.GetActiveScene().buildIndex + 1;;
         PlayerPrefs.SetInt("PlayerCoins", coins);
-        //DontDestroyOnLoad(this);
-        SceneManager.LoadScene(level, LoadSceneMode.Single);
-        PlayerPrefs.SetInt("LastLevelIndex", level);
+        SceneManager.LoadScene(nextLevel, LoadSceneMode.Single);
+        PlayerPrefs.SetInt("LastLevelIndex", nextLevel);
     }
 
 }
