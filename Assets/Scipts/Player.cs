@@ -156,8 +156,8 @@ public class Player : MonoBehaviour {
     }
 
     public void PlayerNextLevel() {
-        int nextLevel = SceneManager.GetActiveScene().buildIndex + 1;;
         PlayerPrefs.SetInt("PlayerCoins", coins);
+        int nextLevel = SceneManager.GetActiveScene().buildIndex + 1;
         SceneManager.LoadScene(nextLevel, LoadSceneMode.Single);
         PlayerPrefs.SetInt("LastLevelIndex", nextLevel);
     }
