@@ -65,3 +65,9 @@ TagManager:
   - name: Enemy
     uniqueID: 1518301477
     locked: 0
+  - name: UI
+    uniqueID: 4284085729
+    locked: 0
+  - name: FinalMessage
+    uniqueID: 3347538407
+    locked: 0

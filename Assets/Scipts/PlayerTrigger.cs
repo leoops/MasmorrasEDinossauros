@@ -39,5 +39,10 @@ public class PlayerTrigger : MonoBehaviour
             playerScript.PlayerNextLevel();
 
         }
+
+        if (collision.CompareTag("Finish"))
+        {
+            PlayerPrefs.SetInt("PlayerCoins", playerScript.coins);
+        }
     }
 }
