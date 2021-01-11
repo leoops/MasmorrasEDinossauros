@@ -1,234 +1,684 @@
 fileFormatVersion: 2
 guid: a17bf27f7cf7fdb4aae3f1bc0350a797
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: DS DSi - Jump Super Stars - Luffy (1)_0
-    21300002: DS DSi - Jump Super Stars - Luffy (1)_1
-    21300004: DS DSi - Jump Super Stars - Luffy (1)_2
-    21300006: DS DSi - Jump Super Stars - Luffy (1)_3
-    21300008: DS DSi - Jump Super Stars - Luffy (1)_4
-    21300010: DS DSi - Jump Super Stars - Luffy (1)_5
-    21300012: DS DSi - Jump Super Stars - Luffy (1)_6
-    21300014: DS DSi - Jump Super Stars - Luffy (1)_7
-    21300016: DS DSi - Jump Super Stars - Luffy (1)_8
-    21300018: DS DSi - Jump Super Stars - Luffy (1)_9
-    21300020: DS DSi - Jump Super Stars - Luffy (1)_10
-    21300022: DS DSi - Jump Super Stars - Luffy (1)_11
-    21300024: DS DSi - Jump Super Stars - Luffy (1)_12
-    21300026: DS DSi - Jump Super Stars - Luffy (1)_13
-    21300028: DS DSi - Jump Super Stars - Luffy (1)_14
-    21300030: DS DSi - Jump Super Stars - Luffy (1)_15
-    21300032: DS DSi - Jump Super Stars - Luffy (1)_16
-    21300034: DS DSi - Jump Super Stars - Luffy (1)_17
-    21300036: DS DSi - Jump Super Stars - Luffy (1)_18
-    21300038: DS DSi - Jump Super Stars - Luffy (1)_19
-    21300040: DS DSi - Jump Super Stars - Luffy (1)_20
-    21300042: DS DSi - Jump Super Stars - Luffy (1)_21
-    21300044: DS DSi - Jump Super Stars - Luffy (1)_22
-    21300046: DS DSi - Jump Super Stars - Luffy (1)_23
-    21300048: DS DSi - Jump Super Stars - Luffy (1)_24
-    21300050: DS DSi - Jump Super Stars - Luffy (1)_25
-    21300052: DS DSi - Jump Super Stars - Luffy (1)_26
-    21300054: DS DSi - Jump Super Stars - Luffy (1)_27
-    21300056: DS DSi - Jump Super Stars - Luffy (1)_28
-    21300058: DS DSi - Jump Super Stars - Luffy (1)_31
-    21300060: DS DSi - Jump Super Stars - Luffy (1)_32
-    21300062: DS DSi - Jump Super Stars - Luffy (1)_25
-    21300064: DS DSi - Jump Super Stars - Luffy (1)_36
-    21300066: DS DSi - Jump Super Stars - Luffy (1)_37
-    21300068: DS DSi - Jump Super Stars - Luffy (1)_38
-    21300070: DS DSi - Jump Super Stars - Luffy (1)_39
-    21300072: DS DSi - Jump Super Stars - Luffy (1)_40
-    21300074: DS DSi - Jump Super Stars - Luffy (1)_41
-    21300076: DS DSi - Jump Super Stars - Luffy (1)_42
-    21300078: DS DSi - Jump Super Stars - Luffy (1)_43
-    21300080: DS DSi - Jump Super Stars - Luffy (1)_44
-    21300082: DS DSi - Jump Super Stars - Luffy (1)_45
-    21300084: DS DSi - Jump Super Stars - Luffy (1)_46
-    21300086: DS DSi - Jump Super Stars - Luffy (1)_47
-    21300088: DS DSi - Jump Super Stars - Luffy (1)_48
-    21300090: DS DSi - Jump Super Stars - Luffy (1)_49
-    21300092: DS DSi - Jump Super Stars - Luffy (1)_50
-    21300094: DS DSi - Jump Super Stars - Luffy (1)_51
-    21300096: DS DSi - Jump Super Stars - Luffy (1)_52
-    21300098: DS DSi - Jump Super Stars - Luffy (1)_53
-    21300100: DS DSi - Jump Super Stars - Luffy (1)_54
-    21300102: DS DSi - Jump Super Stars - Luffy (1)_55
-    21300104: DS DSi - Jump Super Stars - Luffy (1)_56
-    21300106: DS DSi - Jump Super Stars - Luffy (1)_57
-    21300108: DS DSi - Jump Super Stars - Luffy (1)_58
-    21300110: DS DSi - Jump Super Stars - Luffy (1)_59
-    21300112: DS DSi - Jump Super Stars - Luffy (1)_60
-    21300114: DS DSi - Jump Super Stars - Luffy (1)_61
-    21300116: DS DSi - Jump Super Stars - Luffy (1)_62
-    21300118: DS DSi - Jump Super Stars - Luffy (1)_63
-    21300120: DS DSi - Jump Super Stars - Luffy (1)_64
-    21300122: DS DSi - Jump Super Stars - Luffy (1)_65
-    21300124: DS DSi - Jump Super Stars - Luffy (1)_66
-    21300126: DS DSi - Jump Super Stars - Luffy (1)_67
-    21300128: DS DSi - Jump Super Stars - Luffy (1)_68
-    21300130: DS DSi - Jump Super Stars - Luffy (1)_69
-    21300132: DS DSi - Jump Super Stars - Luffy (1)_70
-    21300134: DS DSi - Jump Super Stars - Luffy (1)_71
-    21300136: DS DSi - Jump Super Stars - Luffy (1)_72
-    21300138: DS DSi - Jump Super Stars - Luffy (1)_73
-    21300140: DS DSi - Jump Super Stars - Luffy (1)_74
-    21300142: DS DSi - Jump Super Stars - Luffy (1)_75
-    21300144: DS DSi - Jump Super Stars - Luffy (1)_76
-    21300146: DS DSi - Jump Super Stars - Luffy (1)_77
-    21300148: DS DSi - Jump Super Stars - Luffy (1)_78
-    21300150: DS DSi - Jump Super Stars - Luffy (1)_79
-    21300152: DS DSi - Jump Super Stars - Luffy (1)_80
-    21300154: DS DSi - Jump Super Stars - Luffy (1)_81
-    21300156: DS DSi - Jump Super Stars - Luffy (1)_82
-    21300158: DS DSi - Jump Super Stars - Luffy (1)_83
-    21300160: DS DSi - Jump Super Stars - Luffy (1)_84
-    21300162: DS DSi - Jump Super Stars - Luffy (1)_85
-    21300164: DS DSi - Jump Super Stars - Luffy (1)_86
-    21300166: DS DSi - Jump Super Stars - Luffy (1)_87
-    21300168: DS DSi - Jump Super Stars - Luffy (1)_88
-    21300170: DS DSi - Jump Super Stars - Luffy (1)_89
-    21300172: DS DSi - Jump Super Stars - Luffy (1)_90
-    21300174: DS DSi - Jump Super Stars - Luffy (1)_91
-    21300176: DS DSi - Jump Super Stars - Luffy (1)_92
-    21300178: DS DSi - Jump Super Stars - Luffy (1)_93
-    21300180: DS DSi - Jump Super Stars - Luffy (1)_94
-    21300182: DS DSi - Jump Super Stars - Luffy (1)_95
-    21300184: DS DSi - Jump Super Stars - Luffy (1)_96
-    21300186: DS DSi - Jump Super Stars - Luffy (1)_97
-    21300188: DS DSi - Jump Super Stars - Luffy (1)_99
-    21300190: DS DSi - Jump Super Stars - Luffy (1)_100
-    21300192: DS DSi - Jump Super Stars - Luffy (1)_102
-    21300194: DS DSi - Jump Super Stars - Luffy (1)_103
-    21300196: DS DSi - Jump Super Stars - Luffy (1)_104
-    21300198: DS DSi - Jump Super Stars - Luffy (1)_105
-    21300200: DS DSi - Jump Super Stars - Luffy (1)_106
-    21300202: DS DSi - Jump Super Stars - Luffy (1)_109
-    21300204: DS DSi - Jump Super Stars - Luffy (1)_110
-    21300206: DS DSi - Jump Super Stars - Luffy (1)_111
-    21300208: DS DSi - Jump Super Stars - Luffy (1)_112
-    21300210: DS DSi - Jump Super Stars - Luffy (1)_113
-    21300212: DS DSi - Jump Super Stars - Luffy (1)_114
-    21300214: DS DSi - Jump Super Stars - Luffy (1)_115
-    21300216: DS DSi - Jump Super Stars - Luffy (1)_116
-    21300218: DS DSi - Jump Super Stars - Luffy (1)_117
-    21300220: DS DSi - Jump Super Stars - Luffy (1)_118
-    21300222: DS DSi - Jump Super Stars - Luffy (1)_119
-    21300224: DS DSi - Jump Super Stars - Luffy (1)_120
-    21300226: DS DSi - Jump Super Stars - Luffy (1)_121
-    21300228: DS DSi - Jump Super Stars - Luffy (1)_122
-    21300230: DS DSi - Jump Super Stars - Luffy (1)_123
-    21300232: DS DSi - Jump Super Stars - Luffy (1)_124
-    21300234: DS DSi - Jump Super Stars - Luffy (1)_125
-    21300236: DS DSi - Jump Super Stars - Luffy (1)_126
-    21300238: DS DSi - Jump Super Stars - Luffy (1)_127
-    21300240: DS DSi - Jump Super Stars - Luffy (1)_128
-    21300242: DS DSi - Jump Super Stars - Luffy (1)_129
-    21300244: DS DSi - Jump Super Stars - Luffy (1)_130
-    21300246: DS DSi - Jump Super Stars - Luffy (1)_131
-    21300248: DS DSi - Jump Super Stars - Luffy (1)_132
-    21300250: DS DSi - Jump Super Stars - Luffy (1)_133
-    21300252: DS DSi - Jump Super Stars - Luffy (1)_134
-    21300254: DS DSi - Jump Super Stars - Luffy (1)_135
-    21300256: DS DSi - Jump Super Stars - Luffy (1)_136
-    21300258: DS DSi - Jump Super Stars - Luffy (1)_137
-    21300260: DS DSi - Jump Super Stars - Luffy (1)_138
-    21300262: DS DSi - Jump Super Stars - Luffy (1)_139
-    21300264: DS DSi - Jump Super Stars - Luffy (1)_140
-    21300266: DS DSi - Jump Super Stars - Luffy (1)_141
-    21300268: DS DSi - Jump Super Stars - Luffy (1)_142
-    21300270: DS DSi - Jump Super Stars - Luffy (1)_143
-    21300272: DS DSi - Jump Super Stars - Luffy (1)_144
-    21300274: DS DSi - Jump Super Stars - Luffy (1)_145
-    21300276: DS DSi - Jump Super Stars - Luffy (1)_146
-    21300278: DS DSi - Jump Super Stars - Luffy (1)_147
-    21300280: DS DSi - Jump Super Stars - Luffy (1)_148
-    21300282: DS DSi - Jump Super Stars - Luffy (1)_149
-    21300284: DS DSi - Jump Super Stars - Luffy (1)_150
-    21300286: DS DSi - Jump Super Stars - Luffy (1)_151
-    21300288: DS DSi - Jump Super Stars - Luffy (1)_152
-    21300290: DS DSi - Jump Super Stars - Luffy (1)_153
-    21300292: DS DSi - Jump Super Stars - Luffy (1)_154
-    21300294: DS DSi - Jump Super Stars - Luffy (1)_155
-    21300296: DS DSi - Jump Super Stars - Luffy (1)_156
-    21300298: DS DSi - Jump Super Stars - Luffy (1)_157
-    21300300: DS DSi - Jump Super Stars - Luffy (1)_158
-    21300302: DS DSi - Jump Super Stars - Luffy (1)_159
-    21300304: DS DSi - Jump Super Stars - Luffy (1)_160
-    21300306: DS DSi - Jump Super Stars - Luffy (1)_161
-    21300308: DS DSi - Jump Super Stars - Luffy (1)_162
-    21300310: DS DSi - Jump Super Stars - Luffy (1)_163
-    21300312: DS DSi - Jump Super Stars - Luffy (1)_164
-    21300314: DS DSi - Jump Super Stars - Luffy (1)_165
-    21300316: DS DSi - Jump Super Stars - Luffy (1)_167
-    21300318: DS DSi - Jump Super Stars - Luffy (1)_169
-    21300320: DS DSi - Jump Super Stars - Luffy (1)_170
-    21300322: DS DSi - Jump Super Stars - Luffy (1)_171
-    21300324: DS DSi - Jump Super Stars - Luffy (1)_172
-    21300326: DS DSi - Jump Super Stars - Luffy (1)_173
-    21300328: DS DSi - Jump Super Stars - Luffy (1)_174
-    21300330: DS DSi - Jump Super Stars - Luffy (1)_175
-    21300332: DS DSi - Jump Super Stars - Luffy (1)_176
-    21300334: DS DSi - Jump Super Stars - Luffy (1)_177
-    21300336: DS DSi - Jump Super Stars - Luffy (1)_178
-    21300338: DS DSi - Jump Super Stars - Luffy (1)_179
-    21300340: DS DSi - Jump Super Stars - Luffy (1)_180
-    21300342: DS DSi - Jump Super Stars - Luffy (1)_181
-    21300344: DS DSi - Jump Super Stars - Luffy (1)_182
-    21300346: DS DSi - Jump Super Stars - Luffy (1)_183
-    21300348: DS DSi - Jump Super Stars - Luffy (1)_184
-    21300350: DS DSi - Jump Super Stars - Luffy (1)_185
-    21300352: DS DSi - Jump Super Stars - Luffy (1)_186
-    21300354: DS DSi - Jump Super Stars - Luffy (1)_187
-    21300356: DS DSi - Jump Super Stars - Luffy (1)_188
-    21300358: DS DSi - Jump Super Stars - Luffy (1)_189
-    21300360: DS DSi - Jump Super Stars - Luffy (1)_190
-    21300362: DS DSi - Jump Super Stars - Luffy (1)_191
-    21300364: DS DSi - Jump Super Stars - Luffy (1)_192
-    21300366: DS DSi - Jump Super Stars - Luffy (1)_193
-    21300368: DS DSi - Jump Super Stars - Luffy (1)_194
-    21300370: DS DSi - Jump Super Stars - Luffy (1)_195
-    21300372: DS DSi - Jump Super Stars - Luffy (1)_196
-    21300374: DS DSi - Jump Super Stars - Luffy (1)_197
-    21300376: DS DSi - Jump Super Stars - Luffy (1)_198
-    21300378: DS DSi - Jump Super Stars - Luffy (1)_199
-    21300380: DS DSi - Jump Super Stars - Luffy (1)_200
-    21300382: DS DSi - Jump Super Stars - Luffy (1)_201
-    21300384: DS DSi - Jump Super Stars - Luffy (1)_202
-    21300386: DS DSi - Jump Super Stars - Luffy (1)_203
-    21300388: DS DSi - Jump Super Stars - Luffy (1)_204
-    21300390: DS DSi - Jump Super Stars - Luffy (1)_205
-    21300392: DS DSi - Jump Super Stars - Luffy (1)_206
-    21300394: DS DSi - Jump Super Stars - Luffy (1)_207
-    21300396: DS DSi - Jump Super Stars - Luffy (1)_208
-    21300398: DS DSi - Jump Super Stars - Luffy (1)_209
-    21300400: DS DSi - Jump Super Stars - Luffy (1)_210
-    21300402: DS DSi - Jump Super Stars - Luffy (1)_211
-    21300404: DS DSi - Jump Super Stars - Luffy (1)_212
-    21300406: DS DSi - Jump Super Stars - Luffy (1)_213
-    21300408: DS DSi - Jump Super Stars - Luffy (1)_214
-    21300410: DS DSi - Jump Super Stars - Luffy (1)_215
-    21300412: DS DSi - Jump Super Stars - Luffy (1)_216
-    21300414: DS DSi - Jump Super Stars - Luffy (1)_217
-    21300416: DS DSi - Jump Super Stars - Luffy (1)_218
-    21300418: DS DSi - Jump Super Stars - Luffy (1)_219
-    21300420: DS DSi - Jump Super Stars - Luffy (1)_220
-    21300422: DS DSi - Jump Super Stars - Luffy (1)_221
-    21300424: DS DSi - Jump Super Stars - Luffy (1)_222
-    21300426: DS DSi - Jump Super Stars - Luffy (1)_223
-    21300428: DS DSi - Jump Super Stars - Luffy (1)_224
-    21300430: DS DSi - Jump Super Stars - Luffy (1)_225
-    21300432: DS DSi - Jump Super Stars - Luffy (1)_226
-    21300434: DS DSi - Jump Super Stars - Luffy (1)_227
-    21300436: DS DSi - Jump Super Stars - Luffy (1)_228
-    21300438: DS DSi - Jump Super Stars - Luffy (1)_229
-    21300440: DS DSi - Jump Super Stars - Luffy (1)_230
-    21300442: DS DSi - Jump Super Stars - Luffy (1)_231
-    21300444: DS DSi - Jump Super Stars - Luffy (1)_232
-    21300446: DS DSi - Jump Super Stars - Luffy (1)_233
-    21300448: DS DSi - Jump Super Stars - Luffy (1)_234
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DS DSi - Jump Super Stars - Luffy (1)_0
+  - first:
+      213: 21300002
+    second: DS DSi - Jump Super Stars - Luffy (1)_1
+  - first:
+      213: 21300004
+    second: DS DSi - Jump Super Stars - Luffy (1)_2
+  - first:
+      213: 21300006
+    second: DS DSi - Jump Super Stars - Luffy (1)_3
+  - first:
+      213: 21300008
+    second: DS DSi - Jump Super Stars - Luffy (1)_4
+  - first:
+      213: 21300010
+    second: DS DSi - Jump Super Stars - Luffy (1)_5
+  - first:
+      213: 21300012
+    second: DS DSi - Jump Super Stars - Luffy (1)_6
+  - first:
+      213: 21300014
+    second: DS DSi - Jump Super Stars - Luffy (1)_7
+  - first:
+      213: 21300016
+    second: DS DSi - Jump Super Stars - Luffy (1)_8
+  - first:
+      213: 21300018
+    second: DS DSi - Jump Super Stars - Luffy (1)_9
+  - first:
+      213: 21300020
+    second: DS DSi - Jump Super Stars - Luffy (1)_10
+  - first:
+      213: 21300022
+    second: DS DSi - Jump Super Stars - Luffy (1)_11
+  - first:
+      213: 21300024
+    second: DS DSi - Jump Super Stars - Luffy (1)_12
+  - first:
+      213: 21300026
+    second: DS DSi - Jump Super Stars - Luffy (1)_13
+  - first:
+      213: 21300028
+    second: DS DSi - Jump Super Stars - Luffy (1)_14
+  - first:
+      213: 21300030
+    second: DS DSi - Jump Super Stars - Luffy (1)_15
+  - first:
+      213: 21300032
+    second: DS DSi - Jump Super Stars - Luffy (1)_16
+  - first:
+      213: 21300034
+    second: DS DSi - Jump Super Stars - Luffy (1)_17
+  - first:
+      213: 21300036
+    second: DS DSi - Jump Super Stars - Luffy (1)_18
+  - first:
+      213: 21300038
+    second: DS DSi - Jump Super Stars - Luffy (1)_19
+  - first:
+      213: 21300040
+    second: DS DSi - Jump Super Stars - Luffy (1)_20
+  - first:
+      213: 21300042
+    second: DS DSi - Jump Super Stars - Luffy (1)_21
+  - first:
+      213: 21300044
+    second: DS DSi - Jump Super Stars - Luffy (1)_22
+  - first:
+      213: 21300046
+    second: DS DSi - Jump Super Stars - Luffy (1)_23
+  - first:
+      213: 21300048
+    second: DS DSi - Jump Super Stars - Luffy (1)_24
+  - first:
+      213: 21300050
+    second: DS DSi - Jump Super Stars - Luffy (1)_25
+  - first:
+      213: 21300052
+    second: DS DSi - Jump Super Stars - Luffy (1)_26
+  - first:
+      213: 21300054
+    second: DS DSi - Jump Super Stars - Luffy (1)_27
+  - first:
+      213: 21300056
+    second: DS DSi - Jump Super Stars - Luffy (1)_28
+  - first:
+      213: 21300058
+    second: DS DSi - Jump Super Stars - Luffy (1)_31
+  - first:
+      213: 21300060
+    second: DS DSi - Jump Super Stars - Luffy (1)_32
+  - first:
+      213: 21300062
+    second: DS DSi - Jump Super Stars - Luffy (1)_25
+  - first:
+      213: 21300064
+    second: DS DSi - Jump Super Stars - Luffy (1)_36
+  - first:
+      213: 21300066
+    second: DS DSi - Jump Super Stars - Luffy (1)_37
+  - first:
+      213: 21300068
+    second: DS DSi - Jump Super Stars - Luffy (1)_38
+  - first:
+      213: 21300070
+    second: DS DSi - Jump Super Stars - Luffy (1)_39
+  - first:
+      213: 21300072
+    second: DS DSi - Jump Super Stars - Luffy (1)_40
+  - first:
+      213: 21300074
+    second: DS DSi - Jump Super Stars - Luffy (1)_41
+  - first:
+      213: 21300076
+    second: DS DSi - Jump Super Stars - Luffy (1)_42
+  - first:
+      213: 21300078
+    second: DS DSi - Jump Super Stars - Luffy (1)_43
+  - first:
+      213: 21300080
+    second: DS DSi - Jump Super Stars - Luffy (1)_44
+  - first:
+      213: 21300082
+    second: DS DSi - Jump Super Stars - Luffy (1)_45
+  - first:
+      213: 21300084
+    second: DS DSi - Jump Super Stars - Luffy (1)_46
+  - first:
+      213: 21300086
+    second: DS DSi - Jump Super Stars - Luffy (1)_47
+  - first:
+      213: 21300088
+    second: DS DSi - Jump Super Stars - Luffy (1)_48
+  - first:
+      213: 21300090
+    second: DS DSi - Jump Super Stars - Luffy (1)_49
+  - first:
+      213: 21300092
+    second: DS DSi - Jump Super Stars - Luffy (1)_50
+  - first:
+      213: 21300094
+    second: DS DSi - Jump Super Stars - Luffy (1)_51
+  - first:
+      213: 21300096
+    second: DS DSi - Jump Super Stars - Luffy (1)_52
+  - first:
+      213: 21300098
+    second: DS DSi - Jump Super Stars - Luffy (1)_53
+  - first:
+      213: 21300100
+    second: DS DSi - Jump Super Stars - Luffy (1)_54
+  - first:
+      213: 21300102
+    second: DS DSi - Jump Super Stars - Luffy (1)_55
+  - first:
+      213: 21300104
+    second: DS DSi - Jump Super Stars - Luffy (1)_56
+  - first:
+      213: 21300106
+    second: DS DSi - Jump Super Stars - Luffy (1)_57
+  - first:
+      213: 21300108
+    second: DS DSi - Jump Super Stars - Luffy (1)_58
+  - first:
+      213: 21300110
+    second: DS DSi - Jump Super Stars - Luffy (1)_59
+  - first:
+      213: 21300112
+    second: DS DSi - Jump Super Stars - Luffy (1)_60
+  - first:
+      213: 21300114
+    second: DS DSi - Jump Super Stars - Luffy (1)_61
+  - first:
+      213: 21300116
+    second: DS DSi - Jump Super Stars - Luffy (1)_62
+  - first:
+      213: 21300118
+    second: DS DSi - Jump Super Stars - Luffy (1)_63
+  - first:
+      213: 21300120
+    second: DS DSi - Jump Super Stars - Luffy (1)_64
+  - first:
+      213: 21300122
+    second: DS DSi - Jump Super Stars - Luffy (1)_65
+  - first:
+      213: 21300124
+    second: DS DSi - Jump Super Stars - Luffy (1)_66
+  - first:
+      213: 21300126
+    second: DS DSi - Jump Super Stars - Luffy (1)_67
+  - first:
+      213: 21300128
+    second: DS DSi - Jump Super Stars - Luffy (1)_68
+  - first:
+      213: 21300130
+    second: DS DSi - Jump Super Stars - Luffy (1)_69
+  - first:
+      213: 21300132
+    second: DS DSi - Jump Super Stars - Luffy (1)_70
+  - first:
+      213: 21300134
+    second: DS DSi - Jump Super Stars - Luffy (1)_71
+  - first:
+      213: 21300136
+    second: DS DSi - Jump Super Stars - Luffy (1)_72
+  - first:
+      213: 21300138
+    second: DS DSi - Jump Super Stars - Luffy (1)_73
+  - first:
+      213: 21300140
+    second: DS DSi - Jump Super Stars - Luffy (1)_74
+  - first:
+      213: 21300142
+    second: DS DSi - Jump Super Stars - Luffy (1)_75
+  - first:
+      213: 21300144
+    second: DS DSi - Jump Super Stars - Luffy (1)_76
+  - first:
+      213: 21300146
+    second: DS DSi - Jump Super Stars - Luffy (1)_77
+  - first:
+      213: 21300148
+    second: DS DSi - Jump Super Stars - Luffy (1)_78
+  - first:
+      213: 21300150
+    second: DS DSi - Jump Super Stars - Luffy (1)_79
+  - first:
+      213: 21300152
+    second: DS DSi - Jump Super Stars - Luffy (1)_80
+  - first:
+      213: 21300154
+    second: DS DSi - Jump Super Stars - Luffy (1)_81
+  - first:
+      213: 21300156
+    second: DS DSi - Jump Super Stars - Luffy (1)_82
+  - first:
+      213: 21300158
+    second: DS DSi - Jump Super Stars - Luffy (1)_83
+  - first:
+      213: 21300160
+    second: DS DSi - Jump Super Stars - Luffy (1)_84
+  - first:
+      213: 21300162
+    second: DS DSi - Jump Super Stars - Luffy (1)_85
+  - first:
+      213: 21300164
+    second: DS DSi - Jump Super Stars - Luffy (1)_86
+  - first:
+      213: 21300166
+    second: DS DSi - Jump Super Stars - Luffy (1)_87
+  - first:
+      213: 21300168
+    second: DS DSi - Jump Super Stars - Luffy (1)_88
+  - first:
+      213: 21300170
+    second: DS DSi - Jump Super Stars - Luffy (1)_89
+  - first:
+      213: 21300172
+    second: DS DSi - Jump Super Stars - Luffy (1)_90
+  - first:
+      213: 21300174
+    second: DS DSi - Jump Super Stars - Luffy (1)_91
+  - first:
+      213: 21300176
+    second: DS DSi - Jump Super Stars - Luffy (1)_92
+  - first:
+      213: 21300178
+    second: DS DSi - Jump Super Stars - Luffy (1)_93
+  - first:
+      213: 21300180
+    second: DS DSi - Jump Super Stars - Luffy (1)_94
+  - first:
+      213: 21300182
+    second: DS DSi - Jump Super Stars - Luffy (1)_95
+  - first:
+      213: 21300184
+    second: DS DSi - Jump Super Stars - Luffy (1)_96
+  - first:
+      213: 21300186
+    second: DS DSi - Jump Super Stars - Luffy (1)_97
+  - first:
+      213: 21300188
+    second: DS DSi - Jump Super Stars - Luffy (1)_99
+  - first:
+      213: 21300190
+    second: DS DSi - Jump Super Stars - Luffy (1)_100
+  - first:
+      213: 21300192
+    second: DS DSi - Jump Super Stars - Luffy (1)_102
+  - first:
+      213: 21300194
+    second: DS DSi - Jump Super Stars - Luffy (1)_103
+  - first:
+      213: 21300196
+    second: DS DSi - Jump Super Stars - Luffy (1)_104
+  - first:
+      213: 21300198
+    second: DS DSi - Jump Super Stars - Luffy (1)_105
+  - first:
+      213: 21300200
+    second: DS DSi - Jump Super Stars - Luffy (1)_106
+  - first:
+      213: 21300202
+    second: DS DSi - Jump Super Stars - Luffy (1)_109
+  - first:
+      213: 21300204
+    second: DS DSi - Jump Super Stars - Luffy (1)_110
+  - first:
+      213: 21300206
+    second: DS DSi - Jump Super Stars - Luffy (1)_111
+  - first:
+      213: 21300208
+    second: DS DSi - Jump Super Stars - Luffy (1)_112
+  - first:
+      213: 21300210
+    second: DS DSi - Jump Super Stars - Luffy (1)_113
+  - first:
+      213: 21300212
+    second: DS DSi - Jump Super Stars - Luffy (1)_114
+  - first:
+      213: 21300214
+    second: DS DSi - Jump Super Stars - Luffy (1)_115
+  - first:
+      213: 21300216
+    second: DS DSi - Jump Super Stars - Luffy (1)_116
+  - first:
+      213: 21300218
+    second: DS DSi - Jump Super Stars - Luffy (1)_117
+  - first:
+      213: 21300220
+    second: DS DSi - Jump Super Stars - Luffy (1)_118
+  - first:
+      213: 21300222
+    second: DS DSi - Jump Super Stars - Luffy (1)_119
+  - first:
+      213: 21300224
+    second: DS DSi - Jump Super Stars - Luffy (1)_120
+  - first:
+      213: 21300226
+    second: DS DSi - Jump Super Stars - Luffy (1)_121
+  - first:
+      213: 21300228
+    second: DS DSi - Jump Super Stars - Luffy (1)_122
+  - first:
+      213: 21300230
+    second: DS DSi - Jump Super Stars - Luffy (1)_123
+  - first:
+      213: 21300232
+    second: DS DSi - Jump Super Stars - Luffy (1)_124
+  - first:
+      213: 21300234
+    second: DS DSi - Jump Super Stars - Luffy (1)_125
+  - first:
+      213: 21300236
+    second: DS DSi - Jump Super Stars - Luffy (1)_126
+  - first:
+      213: 21300238
+    second: DS DSi - Jump Super Stars - Luffy (1)_127
+  - first:
+      213: 21300240
+    second: DS DSi - Jump Super Stars - Luffy (1)_128
+  - first:
+      213: 21300242
+    second: DS DSi - Jump Super Stars - Luffy (1)_129
+  - first:
+      213: 21300244
+    second: DS DSi - Jump Super Stars - Luffy (1)_130
+  - first:
+      213: 21300246
+    second: DS DSi - Jump Super Stars - Luffy (1)_131
+  - first:
+      213: 21300248
+    second: DS DSi - Jump Super Stars - Luffy (1)_132
+  - first:
+      213: 21300250
+    second: DS DSi - Jump Super Stars - Luffy (1)_133
+  - first:
+      213: 21300252
+    second: DS DSi - Jump Super Stars - Luffy (1)_134
+  - first:
+      213: 21300254
+    second: DS DSi - Jump Super Stars - Luffy (1)_135
+  - first:
+      213: 21300256
+    second: DS DSi - Jump Super Stars - Luffy (1)_136
+  - first:
+      213: 21300258
+    second: DS DSi - Jump Super Stars - Luffy (1)_137
+  - first:
+      213: 21300260
+    second: DS DSi - Jump Super Stars - Luffy (1)_138
+  - first:
+      213: 21300262
+    second: DS DSi - Jump Super Stars - Luffy (1)_139
+  - first:
+      213: 21300264
+    second: DS DSi - Jump Super Stars - Luffy (1)_140
+  - first:
+      213: 21300266
+    second: DS DSi - Jump Super Stars - Luffy (1)_141
+  - first:
+      213: 21300268
+    second: DS DSi - Jump Super Stars - Luffy (1)_142
+  - first:
+      213: 21300270
+    second: DS DSi - Jump Super Stars - Luffy (1)_143
+  - first:
+      213: 21300272
+    second: DS DSi - Jump Super Stars - Luffy (1)_144
+  - first:
+      213: 21300274
+    second: DS DSi - Jump Super Stars - Luffy (1)_145
+  - first:
+      213: 21300276
+    second: DS DSi - Jump Super Stars - Luffy (1)_146
+  - first:
+      213: 21300278
+    second: DS DSi - Jump Super Stars - Luffy (1)_147
+  - first:
+      213: 21300280
+    second: DS DSi - Jump Super Stars - Luffy (1)_148
+  - first:
+      213: 21300282
+    second: DS DSi - Jump Super Stars - Luffy (1)_149
+  - first:
+      213: 21300284
+    second: DS DSi - Jump Super Stars - Luffy (1)_150
+  - first:
+      213: 21300286
+    second: DS DSi - Jump Super Stars - Luffy (1)_151
+  - first:
+      213: 21300288
+    second: DS DSi - Jump Super Stars - Luffy (1)_152
+  - first:
+      213: 21300290
+    second: DS DSi - Jump Super Stars - Luffy (1)_153
+  - first:
+      213: 21300292
+    second: DS DSi - Jump Super Stars - Luffy (1)_154
+  - first:
+      213: 21300294
+    second: DS DSi - Jump Super Stars - Luffy (1)_155
+  - first:
+      213: 21300296
+    second: DS DSi - Jump Super Stars - Luffy (1)_156
+  - first:
+      213: 21300298
+    second: DS DSi - Jump Super Stars - Luffy (1)_157
+  - first:
+      213: 21300300
+    second: DS DSi - Jump Super Stars - Luffy (1)_158
+  - first:
+      213: 21300302
+    second: DS DSi - Jump Super Stars - Luffy (1)_159
+  - first:
+      213: 21300304
+    second: DS DSi - Jump Super Stars - Luffy (1)_160
+  - first:
+      213: 21300306
+    second: DS DSi - Jump Super Stars - Luffy (1)_161
+  - first:
+      213: 21300308
+    second: DS DSi - Jump Super Stars - Luffy (1)_162
+  - first:
+      213: 21300310
+    second: DS DSi - Jump Super Stars - Luffy (1)_163
+  - first:
+      213: 21300312
+    second: DS DSi - Jump Super Stars - Luffy (1)_164
+  - first:
+      213: 21300314
+    second: DS DSi - Jump Super Stars - Luffy (1)_165
+  - first:
+      213: 21300316
+    second: DS DSi - Jump Super Stars - Luffy (1)_167
+  - first:
+      213: 21300318
+    second: DS DSi - Jump Super Stars - Luffy (1)_169
+  - first:
+      213: 21300320
+    second: DS DSi - Jump Super Stars - Luffy (1)_170
+  - first:
+      213: 21300322
+    second: DS DSi - Jump Super Stars - Luffy (1)_171
+  - first:
+      213: 21300324
+    second: DS DSi - Jump Super Stars - Luffy (1)_172
+  - first:
+      213: 21300326
+    second: DS DSi - Jump Super Stars - Luffy (1)_173
+  - first:
+      213: 21300328
+    second: DS DSi - Jump Super Stars - Luffy (1)_174
+  - first:
+      213: 21300330
+    second: DS DSi - Jump Super Stars - Luffy (1)_175
+  - first:
+      213: 21300332
+    second: DS DSi - Jump Super Stars - Luffy (1)_176
+  - first:
+      213: 21300334
+    second: DS DSi - Jump Super Stars - Luffy (1)_177
+  - first:
+      213: 21300336
+    second: DS DSi - Jump Super Stars - Luffy (1)_178
+  - first:
+      213: 21300338
+    second: DS DSi - Jump Super Stars - Luffy (1)_179
+  - first:
+      213: 21300340
+    second: DS DSi - Jump Super Stars - Luffy (1)_180
+  - first:
+      213: 21300342
+    second: DS DSi - Jump Super Stars - Luffy (1)_181
+  - first:
+      213: 21300344
+    second: DS DSi - Jump Super Stars - Luffy (1)_182
+  - first:
+      213: 21300346
+    second: DS DSi - Jump Super Stars - Luffy (1)_183
+  - first:
+      213: 21300348
+    second: DS DSi - Jump Super Stars - Luffy (1)_184
+  - first:
+      213: 21300350
+    second: DS DSi - Jump Super Stars - Luffy (1)_185
+  - first:
+      213: 21300352
+    second: DS DSi - Jump Super Stars - Luffy (1)_186
+  - first:
+      213: 21300354
+    second: DS DSi - Jump Super Stars - Luffy (1)_187
+  - first:
+      213: 21300356
+    second: DS DSi - Jump Super Stars - Luffy (1)_188
+  - first:
+      213: 21300358
+    second: DS DSi - Jump Super Stars - Luffy (1)_189
+  - first:
+      213: 21300360
+    second: DS DSi - Jump Super Stars - Luffy (1)_190
+  - first:
+      213: 21300362
+    second: DS DSi - Jump Super Stars - Luffy (1)_191
+  - first:
+      213: 21300364
+    second: DS DSi - Jump Super Stars - Luffy (1)_192
+  - first:
+      213: 21300366
+    second: DS DSi - Jump Super Stars - Luffy (1)_193
+  - first:
+      213: 21300368
+    second: DS DSi - Jump Super Stars - Luffy (1)_194
+  - first:
+      213: 21300370
+    second: DS DSi - Jump Super Stars - Luffy (1)_195
+  - first:
+      213: 21300372
+    second: DS DSi - Jump Super Stars - Luffy (1)_196
+  - first:
+      213: 21300374
+    second: DS DSi - Jump Super Stars - Luffy (1)_197
+  - first:
+      213: 21300376
+    second: DS DSi - Jump Super Stars - Luffy (1)_198
+  - first:
+      213: 21300378
+    second: DS DSi - Jump Super Stars - Luffy (1)_199
+  - first:
+      213: 21300380
+    second: DS DSi - Jump Super Stars - Luffy (1)_200
+  - first:
+      213: 21300382
+    second: DS DSi - Jump Super Stars - Luffy (1)_201
+  - first:
+      213: 21300384
+    second: DS DSi - Jump Super Stars - Luffy (1)_202
+  - first:
+      213: 21300386
+    second: DS DSi - Jump Super Stars - Luffy (1)_203
+  - first:
+      213: 21300388
+    second: DS DSi - Jump Super Stars - Luffy (1)_204
+  - first:
+      213: 21300390
+    second: DS DSi - Jump Super Stars - Luffy (1)_205
+  - first:
+      213: 21300392
+    second: DS DSi - Jump Super Stars - Luffy (1)_206
+  - first:
+      213: 21300394
+    second: DS DSi - Jump Super Stars - Luffy (1)_207
+  - first:
+      213: 21300396
+    second: DS DSi - Jump Super Stars - Luffy (1)_208
+  - first:
+      213: 21300398
+    second: DS DSi - Jump Super Stars - Luffy (1)_209
+  - first:
+      213: 21300400
+    second: DS DSi - Jump Super Stars - Luffy (1)_210
+  - first:
+      213: 21300402
+    second: DS DSi - Jump Super Stars - Luffy (1)_211
+  - first:
+      213: 21300404
+    second: DS DSi - Jump Super Stars - Luffy (1)_212
+  - first:
+      213: 21300406
+    second: DS DSi - Jump Super Stars - Luffy (1)_213
+  - first:
+      213: 21300408
+    second: DS DSi - Jump Super Stars - Luffy (1)_214
+  - first:
+      213: 21300410
+    second: DS DSi - Jump Super Stars - Luffy (1)_215
+  - first:
+      213: 21300412
+    second: DS DSi - Jump Super Stars - Luffy (1)_216
+  - first:
+      213: 21300414
+    second: DS DSi - Jump Super Stars - Luffy (1)_217
+  - first:
+      213: 21300416
+    second: DS DSi - Jump Super Stars - Luffy (1)_218
+  - first:
+      213: 21300418
+    second: DS DSi - Jump Super Stars - Luffy (1)_219
+  - first:
+      213: 21300420
+    second: DS DSi - Jump Super Stars - Luffy (1)_220
+  - first:
+      213: 21300422
+    second: DS DSi - Jump Super Stars - Luffy (1)_221
+  - first:
+      213: 21300424
+    second: DS DSi - Jump Super Stars - Luffy (1)_222
+  - first:
+      213: 21300426
+    second: DS DSi - Jump Super Stars - Luffy (1)_223
+  - first:
+      213: 21300428
+    second: DS DSi - Jump Super Stars - Luffy (1)_224
+  - first:
+      213: 21300430
+    second: DS DSi - Jump Super Stars - Luffy (1)_225
+  - first:
+      213: 21300432
+    second: DS DSi - Jump Super Stars - Luffy (1)_226
+  - first:
+      213: 21300434
+    second: DS DSi - Jump Super Stars - Luffy (1)_227
+  - first:
+      213: 21300436
+    second: DS DSi - Jump Super Stars - Luffy (1)_228
+  - first:
+      213: 21300438
+    second: DS DSi - Jump Super Stars - Luffy (1)_229
+  - first:
+      213: 21300440
+    second: DS DSi - Jump Super Stars - Luffy (1)_230
+  - first:
+      213: 21300442
+    second: DS DSi - Jump Super Stars - Luffy (1)_231
+  - first:
+      213: 21300444
+    second: DS DSi - Jump Super Stars - Luffy (1)_232
+  - first:
+      213: 21300446
+    second: DS DSi - Jump Super Stars - Luffy (1)_233
+  - first:
+      213: 21300448
+    second: DS DSi - Jump Super Stars - Luffy (1)_234
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -248,6 +698,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -279,11 +730,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -294,7 +749,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -305,7 +761,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -316,6 +773,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -335,6 +793,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 14a83091194e8ac44aa7b7c3e3b22059
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -355,6 +814,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b57419a4c842ce54d8b342f71c5acd51
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -375,6 +835,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c14bdfd552907d84090a7e2ca4fa2350
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -395,6 +856,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b344e51a8b1e5c94e882451b34a8df2d
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -415,6 +877,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 179248e2dbe2bec40ba6d1cb4dfc9448
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -435,6 +898,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71a04874ab919ff499bd32e7f19559f0
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -455,6 +919,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8910173fa885a9d4cad5c5b03a039a3f
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -475,6 +940,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f93e05d9837e03149b1325cb7e0b1822
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -495,6 +961,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd94d7c5a612778419d8b46f7b0bd50f
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -515,6 +982,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5f009b701f048c4a869c7896eed4098
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -535,6 +1003,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 45bb8e79920992e4ebdd65b24c21020f
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -555,6 +1024,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6c2b15f4abe6dba428be9024f3b69d6b
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -575,6 +1045,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d7e00e608ddc57545bcd92a65fe5e0a7
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -595,6 +1066,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d96d983efe53a7c49b7f73b1a9b8429f
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -615,6 +1087,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8931113728a233b41a78d6b220359a3b
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -635,6 +1108,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5f49dc2d45ebda5479b33250957fa4cf
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -655,6 +1129,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9300aa8250ec7fb48bb93216e494f257
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -675,6 +1150,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b53c5e6a334b72a468a16fef14f1fd8d
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -695,6 +1171,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7c5af0d1fb951704883552586c2770e1
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -715,6 +1192,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 31af4530963329e46b5a810fa6662c9e
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -735,6 +1213,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 238fed6c006d39e4398f675bbaa32a85
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -755,6 +1234,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 048f5904b8ef93d44932d2e6559af043
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -775,6 +1255,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 90eb0138e7ea15e4a80bf22b109b174c
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -795,6 +1276,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6a371959f5e539840a739ff2943fcb48
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -815,6 +1297,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56a225639b7d64049b848cb4809b4410
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -835,6 +1318,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3212e9ad53c718348bb4e0ffb1e347aa
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -855,6 +1339,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2811e963593e7e6438ce21b0296a90de
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -875,6 +1360,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0f420bd6fedceda4b8310617eb730abc
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -895,6 +1381,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 26ce9ed36fb532b4b980f989ace6280c
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -915,6 +1402,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a1a345ae44a619f43af210b16dafcc25
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -935,6 +1423,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d17d93d88ccd830418d252b2a8f174ec
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -955,6 +1444,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82a5f52658dadc34b87eafa9c76fe096
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -975,6 +1465,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 514b3fa4c4e9f3746bec71ea264281d5
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -995,6 +1486,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 412bd43326f0a2a44aa17f5d10b8b17a
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -1015,6 +1507,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e51608eb38256694dbb3421bccf08ae4
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -1035,6 +1528,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 11e216ee59a5b2b4980a9354d1d93ecf
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -1055,6 +1549,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4e72d77259d63444a9f48d2283171615
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1075,6 +1570,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8921e641ce4348d40970f31f35c8407c
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1095,6 +1591,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6aada05a843b84043b83e0895ce044d0
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -1115,6 +1612,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aefb814438d96144d8d4d1e58597262c
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1135,6 +1633,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8f9b8e687add7114e86dc752ccad19a2
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1155,6 +1654,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0a1daa6042b3d54488463f3b825c24be
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1175,6 +1675,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 25ce83f8fd5a6ff469433bbf6fa24185
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1195,6 +1696,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ea75b8b70300d141b86e441d13502a0
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1215,6 +1717,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cf5be5106e1571740b844dbb780db7d0
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1235,6 +1738,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c91ed633e3073e43a7b859b55cb243d
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1255,6 +1759,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: edfdd4a2f4901a24db8170bdebe4025f
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1275,6 +1780,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bddc04d9af34cd44ab2975fcd7279904
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1295,6 +1801,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e4e22c572b761a4db07ad70ec409ebf
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1315,6 +1822,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b3f1d960eb7b36b4a9c26b4d249cab4d
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1335,6 +1843,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7ee620b480b156744bf07851d4e6c575
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1355,6 +1864,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1f789c45def2bf4429cab2220e0d6ae2
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1375,6 +1885,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a219802289b0fc248a1e046d4327f8f8
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1395,6 +1906,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 45b092ccd87169b4ca7be8877c3d9f56
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1415,6 +1927,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5427fa9e0dbfee24b88e3e9e39591694
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1435,6 +1948,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 353b7ae33a4a24d468d4649ef10d92d0
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1455,6 +1969,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 68cf79e5acb587443a1e3080715cd621
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -1475,6 +1990,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cea1cde345d320342a184313fcb569fb
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -1495,6 +2011,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1bd50410e72c1c4fb11ef6a4b9361c1
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -1515,6 +2032,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e53db20d5921dc74694d6a86d0193f7d
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -1535,6 +2053,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36e41f95c512a2444b535979753522fa
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -1555,6 +2074,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1200b79451fa5941abda06c331640f3
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -1575,6 +2095,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a2289cb750933ee4094cef271b22c512
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -1595,6 +2116,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5cf368f9acf4d8d42ad469c8dae36c4f
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -1615,6 +2137,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4d309175a98660d44b0f3467cf4bf7c4
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -1635,6 +2158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb7ea5ad62a5460498cb85d088292234
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -1655,6 +2179,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a6e281d6334f05479801f577350c6d8
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -1675,6 +2200,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f67ee4939b337294799fe060e325a968
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -1695,6 +2221,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 779c45cc4ef913c47bc6eed3e6678357
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -1715,6 +2242,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b57bab877ba428f4e8a4438bcd1e9ce0
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -1735,6 +2263,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 07f4aed903e7e624fa36feef34846469
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -1755,6 +2284,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cf89068d0ca94564193b1319ac3b6924
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -1775,6 +2305,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c55baee979569ba48abaa74aeb40a6dc
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -1795,6 +2326,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 34d6c5ff13b6f9e4b842ff97f503a047
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -1815,6 +2347,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e9af42cad54726e4c9b94d6b4123ee14
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -1835,6 +2368,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 70c3a5f7d61974f48b713dfa86b78a51
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -1855,6 +2389,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 99e50296488d3414aa1e535889ce4323
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -1875,6 +2410,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c7ab434401169f240a1dfcb49a1307f8
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -1895,6 +2431,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 99a0f54d62334244ab09a943ad999eb2
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -1915,6 +2452,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75c7554b3f09ea04cabe004422acb87f
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -1935,6 +2473,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 843fd11c4c927ce4ea01f8df5bbeccb0
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -1955,6 +2494,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fc5bf774d6faf7e4d840087ba8f2bae5
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -1975,6 +2515,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36e7435152847a449966191820b852a4
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -1995,6 +2536,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4ec084a7f4231b44dab828ea39b65773
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -2015,6 +2557,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ddae78874630eab4bb27f1757fa1a1d5
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -2035,6 +2578,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 53e969a9a6238d345ad0578e2b54d82c
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -2055,6 +2599,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 736ecd97206338b49bb49f2ef32e9a22
+      internalID: 21300176
       vertices: []
       indices: 
       edges: []
@@ -2075,6 +2620,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b06a07c9946f5f4988eb6b0b8a52065
+      internalID: 21300178
       vertices: []
       indices: 
       edges: []
@@ -2095,6 +2641,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a856135716940e746b5723eda10f874a
+      internalID: 21300180
       vertices: []
       indices: 
       edges: []
@@ -2115,6 +2662,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ce7cd96c237f5634b9d9238c762b4457
+      internalID: 21300182
       vertices: []
       indices: 
       edges: []
@@ -2135,6 +2683,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d7ac7c6cb2dbb2a40b82b2ed3f60bdea
+      internalID: 21300186
       vertices: []
       indices: 
       edges: []
@@ -2155,6 +2704,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 540fbb21c6813b24ebda858bae9b180a
+      internalID: 21300188
       vertices: []
       indices: 
       edges: []
@@ -2175,6 +2725,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cef9a80408e60aa44a4ac382c2d287cc
+      internalID: 21300190
       vertices: []
       indices: 
       edges: []
@@ -2195,6 +2746,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6a5dee3981b39b14db9149d078f90450
+      internalID: 21300192
       vertices: []
       indices: 
       edges: []
@@ -2215,6 +2767,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75fe0db9f5d1494489861e1ce2f4c5d2
+      internalID: 21300194
       vertices: []
       indices: 
       edges: []
@@ -2235,6 +2788,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bdac34c9db552344586df2196176a813
+      internalID: 21300196
       vertices: []
       indices: 
       edges: []
@@ -2255,6 +2809,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6daf747b1b658ee4cadc6e31fd827799
+      internalID: 21300198
       vertices: []
       indices: 
       edges: []
@@ -2275,6 +2830,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fcfad2221b71fce49ab33eb4e34421b3
+      internalID: 21300200
       vertices: []
       indices: 
       edges: []
@@ -2295,6 +2851,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 52eb3dad551a26e49af4518a753c2b6f
+      internalID: 21300202
       vertices: []
       indices: 
       edges: []
@@ -2315,6 +2872,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ad3e0adf421f3c6499281def9bfa653d
+      internalID: 21300204
       vertices: []
       indices: 
       edges: []
@@ -2335,6 +2893,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3303cdbb22507214fac9a805267b17a4
+      internalID: 21300206
       vertices: []
       indices: 
       edges: []
@@ -2355,6 +2914,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 420352f01b656ce42967611a2fbcd8d8
+      internalID: 21300208
       vertices: []
       indices: 
       edges: []
@@ -2375,6 +2935,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2abf6d31235b7bc4ea8503067bf4da5d
+      internalID: 21300210
       vertices: []
       indices: 
       edges: []
@@ -2395,6 +2956,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c3ff32a48f4cc414fb57c2f568e004c0
+      internalID: 21300212
       vertices: []
       indices: 
       edges: []
@@ -2415,6 +2977,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bbd2fd842231c59488e66efdfb78a906
+      internalID: 21300214
       vertices: []
       indices: 
       edges: []
@@ -2435,6 +2998,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 07a9a69d0f4d55c4795b3c20518579cb
+      internalID: 21300216
       vertices: []
       indices: 
       edges: []
@@ -2455,6 +3019,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b984f346f1ea24147b473746aaaec12f
+      internalID: 21300218
       vertices: []
       indices: 
       edges: []
@@ -2475,6 +3040,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e7624a91566c64e4db4206d45c0f614e
+      internalID: 21300220
       vertices: []
       indices: 
       edges: []
@@ -2495,6 +3061,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 387ad1bb61f74b6419500d9917447c21
+      internalID: 21300222
       vertices: []
       indices: 
       edges: []
@@ -2515,6 +3082,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b694220ffad49c147881b1aeff62e10b
+      internalID: 21300224
       vertices: []
       indices: 
       edges: []
@@ -2535,6 +3103,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a0cb123f6b589ce4ab2051fe45c9d751
+      internalID: 21300226
       vertices: []
       indices: 
       edges: []
@@ -2555,6 +3124,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c7ec1f64e4efc814980a851821a4a95b
+      internalID: 21300228
       vertices: []
       indices: 
       edges: []
@@ -2575,6 +3145,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc691ce1dece43346841b761ca5a12e3
+      internalID: 21300230
       vertices: []
       indices: 
       edges: []
@@ -2595,6 +3166,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6e88f58f915bbfc419ae2403dfc07e63
+      internalID: 21300232
       vertices: []
       indices: 
       edges: []
@@ -2615,6 +3187,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c3ad6623c549b7b48a18a353de7d5df8
+      internalID: 21300234
       vertices: []
       indices: 
       edges: []
@@ -2635,6 +3208,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fcb7cdf90d73e84418ed732d53ef1150
+      internalID: 21300236
       vertices: []
       indices: 
       edges: []
@@ -2655,6 +3229,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d3c676088631ff43bfd13b8b8f1d8be
+      internalID: 21300238
       vertices: []
       indices: 
       edges: []
@@ -2675,6 +3250,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3e47f3848cd795249bc6352edd380136
+      internalID: 21300240
       vertices: []
       indices: 
       edges: []
@@ -2695,6 +3271,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c8e998043bcba64ba8978b5a98c2fb5
+      internalID: 21300242
       vertices: []
       indices: 
       edges: []
@@ -2715,6 +3292,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b350cbe35b04a1e4ca3ddfa018d59779
+      internalID: 21300244
       vertices: []
       indices: 
       edges: []
@@ -2735,6 +3313,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2916cf368987723498e8b8853bd7f8cd
+      internalID: 21300246
       vertices: []
       indices: 
       edges: []
@@ -2755,6 +3334,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc332fb177375df4abfddc3a0e768a8f
+      internalID: 21300248
       vertices: []
       indices: 
       edges: []
@@ -2775,6 +3355,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a8629d82b3fe254db205a4bdcbd80f5
+      internalID: 21300250
       vertices: []
       indices: 
       edges: []
@@ -2795,6 +3376,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 17034155e4e0f0f4bbda2681b02e0753
+      internalID: 21300252
       vertices: []
       indices: 
       edges: []
@@ -2815,6 +3397,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cf49713623dc5c74abfb069717f08457
+      internalID: 21300254
       vertices: []
       indices: 
       edges: []
@@ -2835,6 +3418,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b9dbcb1329bc4ce4fbc7e882480fc447
+      internalID: 21300256
       vertices: []
       indices: 
       edges: []
@@ -2855,6 +3439,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75412429655b1ff4d995752f9a64d5e8
+      internalID: 21300258
       vertices: []
       indices: 
       edges: []
@@ -2875,6 +3460,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e4ef8c0ffc9a6204b955ac27a984181f
+      internalID: 21300260
       vertices: []
       indices: 
       edges: []
@@ -2895,6 +3481,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76892c556190a6a4995ead62c0a502cc
+      internalID: 21300262
       vertices: []
       indices: 
       edges: []
@@ -2915,6 +3502,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 91ea47b840b66ce4eb8aae84075c0d69
+      internalID: 21300264
       vertices: []
       indices: 
       edges: []
@@ -2935,6 +3523,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf44c4e4ea7e41c449a15b7cc1e77be3
+      internalID: 21300266
       vertices: []
       indices: 
       edges: []
@@ -2955,6 +3544,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a9487d57d3acc4d4094e9fd92d08b688
+      internalID: 21300268
       vertices: []
       indices: 
       edges: []
@@ -2975,6 +3565,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a5c083301f2fe24488949521d0d19c8
+      internalID: 21300270
       vertices: []
       indices: 
       edges: []
@@ -2995,6 +3586,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 850eff3a7658abe4da973f85f25b6ea7
+      internalID: 21300272
       vertices: []
       indices: 
       edges: []
@@ -3015,6 +3607,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46cdacdfaf6cfd54ca5e6458d148ba1d
+      internalID: 21300274
       vertices: []
       indices: 
       edges: []
@@ -3035,6 +3628,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf2a99780296c6242b59e2b5029275fa
+      internalID: 21300276
       vertices: []
       indices: 
       edges: []
@@ -3055,6 +3649,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ad027853df714d8449037ac8216c4969
+      internalID: 21300278
       vertices: []
       indices: 
       edges: []
@@ -3075,6 +3670,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f7552dec91af40f4f8e25bbcfd4ce585
+      internalID: 21300280
       vertices: []
       indices: 
       edges: []
@@ -3095,6 +3691,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb49b44bf86ddc548901b6e23413c3af
+      internalID: 21300282
       vertices: []
       indices: 
       edges: []
@@ -3115,6 +3712,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6bad6cc8c9128d24589d17f2c3adec2f
+      internalID: 21300284
       vertices: []
       indices: 
       edges: []
@@ -3135,6 +3733,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 50f727913548c15468ea8ce2793b0c42
+      internalID: 21300286
       vertices: []
       indices: 
       edges: []
@@ -3155,6 +3754,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f7a1c6be15fa81c45b73879a5c0ac563
+      internalID: 21300288
       vertices: []
       indices: 
       edges: []
@@ -3175,6 +3775,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b65749a17781c8c4bb23465730057eff
+      internalID: 21300290
       vertices: []
       indices: 
       edges: []
@@ -3195,6 +3796,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 231204d4f5b44e24cb110beb3c471fad
+      internalID: 21300292
       vertices: []
       indices: 
       edges: []
@@ -3215,6 +3817,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 857fe31bbcc45db4e989d0df57bd1360
+      internalID: 21300294
       vertices: []
       indices: 
       edges: []
@@ -3235,6 +3838,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f774c7e7f162baa4aa477dd01555d8f4
+      internalID: 21300296
       vertices: []
       indices: 
       edges: []
@@ -3255,6 +3859,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1954b2d21808cc44996e4e99679d8fe6
+      internalID: 21300298
       vertices: []
       indices: 
       edges: []
@@ -3275,6 +3880,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a0c3ef54f45e8240a7d92da1964a2cd
+      internalID: 21300300
       vertices: []
       indices: 
       edges: []
@@ -3295,6 +3901,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cabc8f807c9fe954ca6ca46979fd85cb
+      internalID: 21300302
       vertices: []
       indices: 
       edges: []
@@ -3315,6 +3922,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 779f57b381bb5bd4787a31f28f30fd85
+      internalID: 21300306
       vertices: []
       indices: 
       edges: []
@@ -3335,6 +3943,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d9d151bbd268e8941a250b31a9153d79
+      internalID: 21300308
       vertices: []
       indices: 
       edges: []
@@ -3355,6 +3964,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6313c040c668a5d43b44071f390c3656
+      internalID: 21300310
       vertices: []
       indices: 
       edges: []
@@ -3375,6 +3985,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 584f7d2f63440934bad17471e1e0a056
+      internalID: 21300312
       vertices: []
       indices: 
       edges: []
@@ -3395,6 +4006,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eac2ae1feafaca94a9a0ed1f23c0929b
+      internalID: 21300314
       vertices: []
       indices: 
       edges: []
@@ -3415,6 +4027,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1fd48111bdf6ff4a9cbab32ac6971d6
+      internalID: 21300316
       vertices: []
       indices: 
       edges: []
@@ -3435,6 +4048,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff1e86c8bed4edb4ea2c94181e17f8e6
+      internalID: 21300318
       vertices: []
       indices: 
       edges: []
@@ -3455,6 +4069,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d2c36b507abfb634da6da3674c2f037e
+      internalID: 21300320
       vertices: []
       indices: 
       edges: []
@@ -3475,6 +4090,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 024c934eb3b0de1478b1587edcf2322f
+      internalID: 21300322
       vertices: []
       indices: 
       edges: []
@@ -3495,6 +4111,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 936a3a1abfbf420439eaabe0ae9d6b5b
+      internalID: 21300324
       vertices: []
       indices: 
       edges: []
@@ -3515,6 +4132,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 43227a6fbe711de4aa21e6d9f056f22b
+      internalID: 21300326
       vertices: []
       indices: 
       edges: []
@@ -3535,6 +4153,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 62f3e7d0b1e0ed544bce86276d5e0019
+      internalID: 21300328
       vertices: []
       indices: 
       edges: []
@@ -3555,6 +4174,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46cd019916a78e34983f60d6b8b7c14d
+      internalID: 21300330
       vertices: []
       indices: 
       edges: []
@@ -3575,6 +4195,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4fc8b369040dea54c84360b5783169ea
+      internalID: 21300332
       vertices: []
       indices: 
       edges: []
@@ -3595,6 +4216,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 29505af4ea40915419211f02c9046dcf
+      internalID: 21300334
       vertices: []
       indices: 
       edges: []
@@ -3615,6 +4237,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 59c8217c5a4d667438f07f51b79af418
+      internalID: 21300336
       vertices: []
       indices: 
       edges: []
@@ -3635,6 +4258,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f44466e31c16dc740bc86941bbdf3c56
+      internalID: 21300338
       vertices: []
       indices: 
       edges: []
@@ -3655,6 +4279,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 39f027c0bf346dc4dbe28a7d1183f0ff
+      internalID: 21300340
       vertices: []
       indices: 
       edges: []
@@ -3675,6 +4300,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 244cffcfb1ced2844ac6c2a4000f38ea
+      internalID: 21300342
       vertices: []
       indices: 
       edges: []
@@ -3695,6 +4321,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b8816b3dd2987e41aa9e3cf714ef059
+      internalID: 21300344
       vertices: []
       indices: 
       edges: []
@@ -3715,6 +4342,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1d53b716630d7584abaf9a0060c8b67b
+      internalID: 21300346
       vertices: []
       indices: 
       edges: []
@@ -3735,6 +4363,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bce8bd2125bf62c49a96b353224a7ca0
+      internalID: 21300348
       vertices: []
       indices: 
       edges: []
@@ -3755,6 +4384,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b59dfbae9a2a6eb47b6219280cf6ec83
+      internalID: 21300350
       vertices: []
       indices: 
       edges: []
@@ -3775,6 +4405,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 23bbc6d50aae73f4597c7943e41e0762
+      internalID: 21300352
       vertices: []
       indices: 
       edges: []
@@ -3795,6 +4426,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5d5fe4f7b54b53942b52c56760bd862e
+      internalID: 21300354
       vertices: []
       indices: 
       edges: []
@@ -3815,6 +4447,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aab6ffa704c24b34ea0b3f4927a83ccb
+      internalID: 21300356
       vertices: []
       indices: 
       edges: []
@@ -3835,6 +4468,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 12e5cba103a75964bab13a856e3e6b39
+      internalID: 21300358
       vertices: []
       indices: 
       edges: []
@@ -3855,6 +4489,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b6507a08e87de484f8ddcc8a81866661
+      internalID: 21300360
       vertices: []
       indices: 
       edges: []
@@ -3875,6 +4510,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f9b90545e5be7c447adfba5b4a816b15
+      internalID: 21300362
       vertices: []
       indices: 
       edges: []
@@ -3895,6 +4531,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d7a010d43208bad4b8d764f08d8ce6be
+      internalID: 21300364
       vertices: []
       indices: 
       edges: []
@@ -3915,6 +4552,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dfad0a0d14c4c63458b9190cf910f0c9
+      internalID: 21300366
       vertices: []
       indices: 
       edges: []
@@ -3935,6 +4573,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b5862abd237da94418d868999ab82c2a
+      internalID: 21300368
       vertices: []
       indices: 
       edges: []
@@ -3955,6 +4594,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d29152fe861cbf040ab97765bb53b696
+      internalID: 21300370
       vertices: []
       indices: 
       edges: []
@@ -3975,6 +4615,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6e5c76c08b23bd84ca66ffe23ec56b36
+      internalID: 21300372
       vertices: []
       indices: 
       edges: []
@@ -3995,6 +4636,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2806238f3d1ce4a49bea0b3ccb73866a
+      internalID: 21300374
       vertices: []
       indices: 
       edges: []
@@ -4015,6 +4657,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a6c5537e6187e34482d7a90aeccc1c0
+      internalID: 21300376
       vertices: []
       indices: 
       edges: []
@@ -4035,6 +4678,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fcfc49a21e9ed5b4f975c19ad65dc1ff
+      internalID: 21300378
       vertices: []
       indices: 
       edges: []
@@ -4055,6 +4699,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bfc4f2a8062444540baf07504cc24b54
+      internalID: 21300380
       vertices: []
       indices: 
       edges: []
@@ -4075,6 +4720,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d70eb6fb771c5ef47a79df7a153bc5da
+      internalID: 21300382
       vertices: []
       indices: 
       edges: []
@@ -4095,6 +4741,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 41087b526edf8224d9c4282b9b9a1d68
+      internalID: 21300384
       vertices: []
       indices: 
       edges: []
@@ -4115,6 +4762,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b6fd8ba1630ecd4b975b7d1af70818f
+      internalID: 21300386
       vertices: []
       indices: 
       edges: []
@@ -4135,6 +4783,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 78729a23f6abe9b429cf4a4133270fd9
+      internalID: 21300388
       vertices: []
       indices: 
       edges: []
@@ -4155,6 +4804,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 31107a121ae7beb449d662cc7362f590
+      internalID: 21300390
       vertices: []
       indices: 
       edges: []
@@ -4175,6 +4825,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a541c5c824c5fe44296fa0ac36cbe8e7
+      internalID: 21300392
       vertices: []
       indices: 
       edges: []
@@ -4195,6 +4846,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83d4d76da55ffca4cbed3b070edddc26
+      internalID: 21300394
       vertices: []
       indices: 
       edges: []
@@ -4215,6 +4867,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 935ae878615772a49becb7fae891bedb
+      internalID: 21300396
       vertices: []
       indices: 
       edges: []
@@ -4235,6 +4888,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0a566ecdb7222a1418211a4743bdfe59
+      internalID: 21300398
       vertices: []
       indices: 
       edges: []
@@ -4255,6 +4909,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf50d2f06aea9c24a87751d2cd1a0437
+      internalID: 21300400
       vertices: []
       indices: 
       edges: []
@@ -4275,6 +4930,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a437f543e392e5488963dd5f97fbb35
+      internalID: 21300402
       vertices: []
       indices: 
       edges: []
@@ -4295,6 +4951,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bd1c03d9c21a58343a6620cf0bac4451
+      internalID: 21300404
       vertices: []
       indices: 
       edges: []
@@ -4315,6 +4972,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bfb3c72859305b140bd97e1d267d2526
+      internalID: 21300406
       vertices: []
       indices: 
       edges: []
@@ -4335,6 +4993,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5005990ffc4dd274a8376f4b7c51ca67
+      internalID: 21300408
       vertices: []
       indices: 
       edges: []
@@ -4355,6 +5014,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5a896e6fddd0e7b46b0491150949c34f
+      internalID: 21300410
       vertices: []
       indices: 
       edges: []
@@ -4375,6 +5035,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c649e02f6c2d2484fa24763efbdea703
+      internalID: 21300412
       vertices: []
       indices: 
       edges: []
@@ -4395,6 +5056,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 67e426c7a8d429643837640d29921f53
+      internalID: 21300414
       vertices: []
       indices: 
       edges: []
@@ -4415,6 +5077,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b66d8053b21c6584ba8a1f28b3ba2e8e
+      internalID: 21300416
       vertices: []
       indices: 
       edges: []
@@ -4435,6 +5098,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cae78bb72e0dc1f46940a1e5cdf863eb
+      internalID: 21300418
       vertices: []
       indices: 
       edges: []
@@ -4455,6 +5119,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 010fd208459b43345ac77fb3fc72b54d
+      internalID: 21300420
       vertices: []
       indices: 
       edges: []
@@ -4475,6 +5140,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13b185d11b7fb184fb8a8fccf8c46a27
+      internalID: 21300422
       vertices: []
       indices: 
       edges: []
@@ -4495,6 +5161,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7d897cb6d43472444b6dd6fe8e43085b
+      internalID: 21300424
       vertices: []
       indices: 
       edges: []
@@ -4515,6 +5182,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2110f20283991924fac2771a5d650162
+      internalID: 21300426
       vertices: []
       indices: 
       edges: []
@@ -4535,6 +5203,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7569f988b17a9bf4a86d510dcd3a17af
+      internalID: 21300428
       vertices: []
       indices: 
       edges: []
@@ -4555,6 +5224,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2bf3be0a1749c5e4bac13811b6b5ce16
+      internalID: 21300430
       vertices: []
       indices: 
       edges: []
@@ -4575,6 +5245,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9dd99d6fcc18a3b4faa9e994d940c1f4
+      internalID: 21300432
       vertices: []
       indices: 
       edges: []
@@ -4595,6 +5266,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 183e082fa27e58f4b8a0a5ab23f41d5d
+      internalID: 21300434
       vertices: []
       indices: 
       edges: []
@@ -4615,6 +5287,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1fb7646dcd54f3b45b15d7ad21eaca65
+      internalID: 21300436
       vertices: []
       indices: 
       edges: []
@@ -4635,6 +5308,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 090ce77861eff4e46823fb18a9662dcd
+      internalID: 21300438
       vertices: []
       indices: 
       edges: []
@@ -4655,6 +5329,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f12227f49d9f6214a9199c922f00bc95
+      internalID: 21300440
       vertices: []
       indices: 
       edges: []
@@ -4675,6 +5350,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a64f9e08300b644418c1fad0de76a319
+      internalID: 21300442
       vertices: []
       indices: 
       edges: []
@@ -4695,6 +5371,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 31e1d57bb581f634ea28577537ba1e74
+      internalID: 21300444
       vertices: []
       indices: 
       edges: []
@@ -4715,6 +5392,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4ebbaf3fe65dd0e41b86d8fcef93bded
+      internalID: 21300446
       vertices: []
       indices: 
       edges: []
@@ -4735,6 +5413,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a9ebf9d2f2e3534696ce3077a781f02
+      internalID: 21300448
       vertices: []
       indices: 
       edges: []
@@ -4743,10 +5422,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 227fbd1d1518e364799a0dbc38257e76
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
