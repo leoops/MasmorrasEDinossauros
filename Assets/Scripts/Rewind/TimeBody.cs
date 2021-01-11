@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class TimeBody : MonoBehaviour
 {
-  public bool isRewinding = false;
+  public float recordTime = 5f;
   private List<PointInTime> pointsInTime;
+  private bool isRewinding = false;
   private Rigidbody2D rigidBody;
 
   void Start()
@@ -17,7 +18,7 @@ public class TimeBody : MonoBehaviour
   // Update is called once per frame
   void Update()
   {
-    if (Input.GetMouseButtonDown("Fire1"))
+    if (Input.GetButton("Fire2"))
     {
       StartRewind();
     }
@@ -51,6 +52,7 @@ public class TimeBody : MonoBehaviour
 
   public void Rewind()
   {
+    Debug.Log("voltou");
     if (pointsInTime.Count > 0)
     {
       PointInTime point = pointsInTime[0];
@@ -67,7 +69,15 @@ public class TimeBody : MonoBehaviour
   public void Record()
   {
 
+    Debug.Log("gravou");
+    if (pointsInTime.Count > Mathf.Round(recordTime / Time.fixedDeltaTime))
+    {
+      pointsInTime.RemoveAt(pointsInTime.Count - 1);
+    }
+
+    pointsInTime.Insert(0, new PointInTime(transform.position, rigidBody.velocity, transform.localScale));
   }
+
 
 
   void SetPointInTime(PointInTime point)
