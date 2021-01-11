@@ -1,0 +1,193 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/leonardopereira/Projects/Games/MasmorrasEDinossauros
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51706
+Successfully changed project path to: /Users/leonardopereira/Projects/Games/MasmorrasEDinossauros
+/Users/leonardopereira/Projects/Games/MasmorrasEDinossauros
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 78.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a9 (18321e85013a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/leonardopereira/Projects/Games/MasmorrasEDinossauros/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-01-10 15:17:41.746 Unity[96216:5882494] 34GL750 preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-01-10 15:17:41.746 Unity[96216:5882494] Metal devices available: 1
+2021-01-10 15:17:41.746 Unity[96216:5882494] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-01-10 15:17:41.746 Unity[96216:5882494] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56216
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001807 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 59.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.806 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 60.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0a9]
+UnityIAP: Current Build is Standalone:StandaloneOSX
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.548 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 333.6 MB.
+System memory in use after: 333.8 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3379.
+Total: 7.310702 ms (FindLiveObjects: 0.282030 ms CreateObjectMapping: 0.263366 ms MarkObjects: 6.669962 ms  DeleteObjects: 0.094150 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GroundRuleTile.asset
+  artifactKey: Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GroundRuleTile.asset using Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26529f7912246f3fec0efb483825f582') in 0.438966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23120.322414 seconds.
+  path: Assets/Scenes/RewindTime.unity
+  artifactKey: Guid(23cd58e5a0e4b4e6ab842117bec043a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/RewindTime.unity using Guid(23cd58e5a0e4b4e6ab842117bec043a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1221d4a139b259f5a46bd366fdf18b40') in 0.050689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.126380 seconds.
+  path: Assets/Prefab/BaseGround.prefab
+  artifactKey: Guid(cef1ae49aaadd48a3844bf4ecdfc5259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/BaseGround.prefab using Guid(cef1ae49aaadd48a3844bf4ecdfc5259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843bb422e6b34a04691cb73c9887742b') in 0.310696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020085 seconds.
+  path: Assets/Prefab/UiElements.prefab
+  artifactKey: Guid(fb4b757b6fd32e04bbdb4330ae6cf864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/UiElements.prefab using Guid(fb4b757b6fd32e04bbdb4330ae6cf864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6146af9a4768300dce8f8c99a3c22660') in 0.038882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020528 seconds.
+  path: Assets/Prefab/Teste.prefab
+  artifactKey: Guid(3b5557445aba541409c79ae0288241b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Teste.prefab using Guid(3b5557445aba541409c79ae0288241b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be337058af3b510751e357977ec2d96') in 0.003208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.039405 seconds.
+  path: Assets/GroundRuleTile.asset
+  artifactKey: Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GroundRuleTile.asset using Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4baeed1cc25cf459ce1d07378edbc1ac') in 0.011197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 468.660955 seconds.
+  path: Assets/GroundRuleTile.asset
+  artifactKey: Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GroundRuleTile.asset using Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d765837c2cbfa045dc915fd6b1b379') in 0.006421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 335.790232 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(106e5e815f3174350bf420829a267cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(106e5e815f3174350bf420829a267cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d024e70549c1a7e93396e4a4dfc5b39') in 0.008067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.446299 seconds.
+  path: Assets/Scripts/Rewind
+  artifactKey: Guid(36ec1fd65ef2c42c5b67578dd89ce63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rewind using Guid(36ec1fd65ef2c42c5b67578dd89ce63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551e79cc0345fc0e2acfb5c93e9ac51b') in 0.006440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.573249 seconds.
+  path: Assets/Scripts/Rewind/TimeBody.cs
+  artifactKey: Guid(9a755ad3ffe9b4f198047e66009daab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rewind/TimeBody.cs using Guid(9a755ad3ffe9b4f198047e66009daab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36cd1478d40a8bb8ed2e0e867ed9376e') in 0.756814 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0a9]
+UnityIAP: Current Build is Standalone:StandaloneOSX
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2839 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 341.8 MB.
+System memory in use after: 342.0 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3384.
+Total: 7.035387 ms (FindLiveObjects: 0.306612 ms CreateObjectMapping: 0.148363 ms MarkObjects: 6.532087 ms  DeleteObjects: 0.047254 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0a9]
+UnityIAP: Current Build is Standalone:StandaloneOSX
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2839 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 342.1 MB.
+System memory in use after: 342.3 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3386.
+Total: 8.814530 ms (FindLiveObjects: 0.265275 ms CreateObjectMapping: 0.141315 ms MarkObjects: 8.377441 ms  DeleteObjects: 0.028395 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.235786 seconds.
+  path: Assets/Scripts/Rewind/TimeBody.cs
+  artifactKey: Guid(9a755ad3ffe9b4f198047e66009daab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rewind/TimeBody.cs using Guid(9a755ad3ffe9b4f198047e66009daab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2e14f24c5a7d45e76c8341058e737f') in 0.028428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1126.487195 seconds.
+  path: Assets/Scripts/Rewind/PointTime.cs
+  artifactKey: Guid(4c09ce9ea5e204f6e870ec98a7123a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rewind/PointTime.cs using Guid(4c09ce9ea5e204f6e870ec98a7123a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452f0f4cba7db899a06a81b0cb70436b') in 0.065896 seconds 

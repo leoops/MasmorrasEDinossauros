@@ -1,0 +1,156 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/leonardopereira/Projects/Games/MasmorrasEDinossauros
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50372
+Successfully changed project path to: /Users/leonardopereira/Projects/Games/MasmorrasEDinossauros
+/Users/leonardopereira/Projects/Games/MasmorrasEDinossauros
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a9 (18321e85013a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/leonardopereira/Projects/Games/MasmorrasEDinossauros/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-01-10 13:50:00.451 Unity[92829:5844248] 34GL750 preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-01-10 13:50:00.451 Unity[92829:5844248] Metal devices available: 1
+2021-01-10 13:50:00.452 Unity[92829:5844248] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-01-10 13:50:00.452 Unity[92829:5844248] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56829
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001689 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 68.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.633 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 61.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0a9]
+UnityIAP: Current Build is Standalone:StandaloneOSX
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.466 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.0a9/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 333.4 MB.
+System memory in use after: 333.6 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3379.
+Total: 6.021837 ms (FindLiveObjects: 0.316742 ms CreateObjectMapping: 0.134998 ms MarkObjects: 5.490888 ms  DeleteObjects: 0.078185 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GroundRuleTile.asset
+  artifactKey: Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GroundRuleTile.asset using Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525507118f7832ad7f1ae6cf2bf636fe') in 0.288914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 127.945878 seconds.
+  path: Assets/Scenes/Level_1.unity
+  artifactKey: Guid(3df0c64ad41844d86a91a653c92c69f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_1.unity using Guid(3df0c64ad41844d86a91a653c92c69f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d02fe1db7da821a01eb301e54c6bc91') in 0.010530 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0a9]
+UnityIAP: Current Build is Standalone:StandaloneOSX
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.535 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2838 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 333.0 MB.
+System memory in use after: 333.2 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3381.
+Total: 7.426910 ms (FindLiveObjects: 0.487443 ms CreateObjectMapping: 0.138878 ms MarkObjects: 6.762436 ms  DeleteObjects: 0.037125 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4309.460882 seconds.
+  path: Assets/GroundRuleTile.asset
+  artifactKey: Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GroundRuleTile.asset using Guid(d60e07f19fcde4cecb998224fc4b8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9874b83cb4c2303e291c0a3ba11622f') in 0.250476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 163.613298 seconds.
+  path: Assets/Sprites/TileMaps/0x72_16x16DungeonTileset.v4.png
+  artifactKey: Guid(3b89a4cc7dd3c2d47a827ccac67bf61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMaps/0x72_16x16DungeonTileset.v4.png using Guid(3b89a4cc7dd3c2d47a827ccac67bf61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6169a8d5bcd02d21fc772872f3e3344') in 1.324621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.616022 seconds.
+  path: Assets/Sprites/tiles.png
+  artifactKey: Guid(f502375d712024a58a4ffcd62038b52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/tiles.png using Guid(f502375d712024a58a4ffcd62038b52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d98636343068afe72650a9cdd7026bc') in 0.260118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.293219 seconds.
+  path: Assets/Sprites/hearts.png
+  artifactKey: Guid(f3c16d5db8b514351aa8d4b351f80c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/hearts.png using Guid(f3c16d5db8b514351aa8d4b351f80c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec373dcaaace5c26c96d34307f7c07bd') in 0.022856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021371 seconds.
+  path: Assets/Sprites/menu.png
+  artifactKey: Guid(ac802e54642dd4747a83720070ef9fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/menu.png using Guid(ac802e54642dd4747a83720070ef9fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8841b45039af3daafded8302433fe0') in 0.019249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021664 seconds.
+  path: Assets/Sprites/snake.png
+  artifactKey: Guid(edf915b0151f24fc18e158a08e04ada1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/snake.png using Guid(edf915b0151f24fc18e158a08e04ada1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e34816cb796219a81b190695ac77435d') in 0.018055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021225 seconds.
+  path: Assets/Sprites/swoosh.png
+  artifactKey: Guid(50f759be0be2e4644b8422fb8e33d848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/swoosh.png using Guid(50f759be0be2e4644b8422fb8e33d848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05eddcaf4e3a0a35d4ce7eabac8bb754') in 0.021924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019426 seconds.
+  path: Assets/Sprites/king.png
+  artifactKey: Guid(10859904eb1a04011812bf6b21e03bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/king.png using Guid(10859904eb1a04011812bf6b21e03bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038999a6fbc298113419785547cbe797') in 0.092350 seconds 
